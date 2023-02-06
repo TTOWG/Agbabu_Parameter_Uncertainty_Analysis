@@ -1,5 +1,6 @@
 # Agbabu_Parameter_Uncertainty_Analysis
  Ergodic and non-ergodic variogram uncertainty in Agbabu bitumen field porosity data
+     
 https://iopscience.iop.org/article/10.1088/1757-899X/640/1/012120/pdf
 
 This project assesses the uncertainty in the ergodic and non-ergodic variogram estimates of the
